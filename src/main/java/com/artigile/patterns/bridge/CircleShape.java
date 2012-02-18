@@ -24,7 +24,4 @@ public class CircleShape extends Shape {
          radius *=pct;
     }
 
-    protected CircleShape(DrawingAPI drawingAPI) {
-        super(drawingAPI);
-    }
 }
